@@ -1,4 +1,4 @@
-# Mahesh Prajapati | Alwrite | Ex-LTI (L&T)
+# Mahesh Prajapati | Alwrite | Ex-LTIMindtree (L&T)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=4A13F7&width=435&lines=Full+Stack+Web+Developer." alt="Typing SVG" /></a>
 
